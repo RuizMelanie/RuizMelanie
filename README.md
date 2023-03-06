@@ -18,8 +18,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="50px">
 <img src="https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/icons8-git.svg" width ="50px">
 </P>
- <br>
-<br>
 <h2 align="center"> Contáctame <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"></h2>
 <div>
   <p align="center">
