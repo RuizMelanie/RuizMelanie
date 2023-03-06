@@ -11,7 +11,7 @@
 💡 - Investigar nuevas tecnologias y herramientas para mejorar mis habilidades técnicas.
 <br>
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Habilidades </h2>
-<img src="Logo_C_sharp.svg.jpg" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50px">
 <img src="NET_Core_Logo.svg.jpg" width="50px">
 <img src="descarga.jpg" width="50px">
 <img src="servidor-sql.jpg" width="50px">
